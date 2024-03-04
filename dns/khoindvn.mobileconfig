@@ -5,6 +5,9 @@
 <key>PayloadContent</key>
 <array>
 <dict>
+<key>Signing Certificates</key>
+<dict>
+<key>SigningProtocol</key>
 <key>DNSSettings</key>
 <dict>
 <key>DNSProtocol</key>
